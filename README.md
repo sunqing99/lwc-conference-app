@@ -10,5 +10,6 @@ The source files are located in the [`src`](./src) folder. All web components ar
 
 Find more information on the main repo on [GitHub](https://github.com/muenzpraeger/create-lwc-app).
 
-## Trailhead module
+## Trailhead modules
 - [Build Your First Application with Lightning Web Components Open Source](https://trailhead.salesforce.com/content/learn/projects/build-your-first-app-with-lightning-web-components-open-source)
+- [Access Salesforce Data with Lightning Web Components Open Source](https://trailhead.salesforce.com/content/learn/projects/access-salesforce-data-with-lightning-web-components-open-source/connect-to-salesforce?trail_id=build-apps-lightning-web-components-open-source)
